@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-google_drive",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Google Drive MCP Pack",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9742525e360debea5bd94f566892d87ec71a5c45f87e5b25d2572a53848d1481",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-248fa84c59201b93f55c0cc2955e228439026d7ba962b9f7d5cb760e6e9ae2b2",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
